@@ -11,7 +11,7 @@ Currently, I'm diving deep into cloud computing and mobile app development, expl
 - **Languages**: C#, Python, JavaScript
 - **Frameworks**: .NET, Xamarin, VueJS, React
 - **Tools**: Azure, Docker, Git
-- **Database**: SQL Server, MongoDB
+- **Database**: SQL Server, MongoDB, PostgreSQL, MySql
 
 ## 🌱 Learning Journey
 
