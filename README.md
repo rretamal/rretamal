@@ -24,6 +24,5 @@ From founding a startup focused on innovative IoT solutions to leading the devel
 ## 📫 How to reach me
 
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
 
-Let's connect and explore how we can make a difference together!
+Let's connect!
