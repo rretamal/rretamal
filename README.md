@@ -1,35 +1,29 @@
-# Hello, I'm Ricardo Retamal! 👋
+# Hi, I'm Ricardo Retamal! 👨‍💻
 
-## Senior Software Developer | Cloud Solutions Expert | Team Lead
+I specialize in creating powerful, efficient, and scalable software solutions. With a passion for technology that drives me, I've led projects from conception to deployment, always looking for innovative solutions to challenging problems.
 
-With over a decade of experience in software development, I specialize in .Net technologies, cloud-based solutions, and both front-end and back-end development. My toolkit includes C#, Asp.Net Core, Xamarin Forms, .Net MAUI, VueJS, React, Python Flask APIs, Azure, and much more.
+## 🚀 What I'm working on
 
-### 🌟 About Me
+Currently, I'm diving deep into cloud computing and mobile app development, exploring the latest in Azure and .Net MAUI to bring seamless experiences to users everywhere.
 
-- **Leadership**: Proven track record as a proactive Team Lead, guiding junior developers and ensuring project success.
-- **Technical Prowess**: Proficient in .Net, Azure, Xamarin Forms, VueJS, React, SQL databases, and more.
-- **Innovative Solutions**: Committed to continuous improvement and innovation in software development.
+## 🛠 Skills
 
-### 💼 Experience Highlights
+- **Languages**: C#, Python, JavaScript
+- **Frameworks**: .NET, Xamarin, VueJS, React
+- **Tools**: Azure, Docker, Git
+- **Database**: SQL Server, MongoDB
 
-- Successfully led complex projects, including a water irrigation system software and a mobile app for attendance solutions.
-- Demonstrated excellence in cloud solutions with Azure, developing and managing Virtual Machines, App Services, and more.
-- Rich front-end development experience with VueJS and React; back-end development with Asp.Net Core Web APIs and Python Flask APIs.
+## 🌱 Learning Journey
 
-### 📚 Education & Certifications
+I'm on a continuous learning path, currently exploring machine learning and AI's potential to transform industries.
 
-- Specialization in Project Management, Universidad Catolica Andrés Bello
-- Software Engineer, Universidad Alejandro de Humboldt
-- Data Science Analyst, Desafio Latam
-- Certifications in Azure Fundamentals (AZ-400), Developing Solutions for Microsoft Azure (AZ-204), MCSA: Web Applications
+## 💼 Past Adventures
 
-### 📈 GitHub Repositories
+From founding a startup focused on innovative IoT solutions to leading the development of critical software for enterprise, my journey has been marked by a passion for solving complex problems with technology.
 
-[Here](https://github.com/rretamal), you'll find my work on various projects that span across my areas of expertise. These projects reflect my dedication to quality, innovation, and the pursuit of technical excellence.
+## 📫 How to reach me
 
-### 📫 Get In Touch
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Email**: your.email@example.com
 
-- Email: rretamal.dev@gmail.com
-- LinkedIn: [linkedin.com/in/rretamal969/](https://linkedin.com/in/rretamal969/)
-
-Thank you for visiting my profile. Let's innovate together!
+Let's connect and explore how we can make a difference together!
