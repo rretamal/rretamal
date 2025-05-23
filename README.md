@@ -1,28 +1,46 @@
-# Hi, I'm Ricardo Retamal! 👨‍💻
+# 👋 Hi, I'm Ricardo Retamal
 
-I specialize in creating powerful, efficient, and scalable software solutions. With a passion for technology that drives me, I've led projects from conception to deployment, always looking for innovative solutions to challenging problems.
+🚀 **Lead Developer • .NET MAUI Expert • AI Enthusiast**  
+Building next-gen mobile apps, SaaS products, and AI-powered tools.
 
-## 🚀 What I'm working on
+I’m a senior full stack developer with over a decade of experience delivering robust, scalable software. I lead technical teams, build MVPs, and integrate AI into practical applications. I’m passionate about creating clean code, great user experiences, and products that make a difference.
 
-Currently, I'm diving deep into cloud computing and mobile app development, exploring the latest in Azure and .Net MAUI to bring seamless experiences to users everywhere.
+---
 
-## 🛠 Skills
+## 💡 Current Focus
 
-- **Languages**: C#, Python, JavaScript
-- **Frameworks**: .NET, Xamarin, VueJS, React
-- **Tools**: Azure, Docker, Git
-- **Database**: SQL Server, MongoDB, PostgreSQL, MySql
+- Designing AI-enhanced mobile apps using .NET MAUI + OpenAI  
+- Prototyping and shipping one MVP per month  
+- Writing technical content on mobile dev, productivity, and applied AI  
 
-## 🌱 Learning Journey
+---
 
-I'm on a continuous learning path, currently exploring machine learning and AI's potential to transform industries.
+## 🛠 Tech Stack
 
-## 💼 Past Adventures
+**Languages:** C#, TypeScript, Python, JavaScript  
+**Frameworks:** .NET MAUI, ASP.NET Core, Vue 3, React, FastAPI  
+**Cloud & DevOps:** Azure, Docker, GitHub Actions, Azure DevOps  
+**Databases:** SQL Server, PostgreSQL, Firebase, SQLite  
 
-From founding a startup focused on innovative IoT solutions to leading the development of critical software for enterprise, my journey has been marked by a passion for solving complex problems with technology.
+---
 
-## 📫 How to reach me
+## 🧠 Learning & Exploring
 
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- AI agents & LangChain  
+- Whisper & voice-powered UX  
+- Data pipelines and vector search with Qdrant  
 
-Let's connect!
+---
+
+## 📜 Writing & Side Projects
+
+- ✍️ [Medium Articles](https://medium.com/@rretamal.dev) – 25+ posts on .NET, AI, and dev life  
+- 🎮 Building indie mobile games & utilities  
+- 🧪 Experimenting with GPT-based assistants & tools  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/rretamal969)  
+- 📨 Open to collaboration, ideas, or just chatting about dev stuff
